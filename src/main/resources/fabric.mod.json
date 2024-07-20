@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "ender-compass",
+	"version": "1.0.0",
+	"name": "Ender Compass",
+	"description": "Compasses that point to the nearest end portal",
+	"authors": [
+		"Crossover661"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/ender-compass/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.crossover661.endercompass.EnderCompass"
+		],
+		"fabric-datagen": [
+			"net.crossover661.endercompass.EnderCompassDataGenerator"
+		],
+		"client": [
+			"net.crossover661.endercompass.EnderCompassClient"
+		]
+	},
+	"mixins": [
+		"ender-compass.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
