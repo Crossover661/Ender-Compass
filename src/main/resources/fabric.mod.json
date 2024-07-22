@@ -8,8 +8,8 @@
 		"Crossover661"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/ender-compass/",
+		"sources": "https://github.com/Crossover661/Ender-Compass"
 	},
 	"license": "MIT",
 	"icon": "assets/ender-compass/icon.png",

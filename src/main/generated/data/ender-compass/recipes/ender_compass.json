@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "x": {
+      "item": "minecraft:ender_eye"
+    },
+    "y": {
+      "item": "minecraft:compass"
+    }
+  },
+  "pattern": [
+    " x ",
+    "xyx",
+    " x "
+  ],
+  "result": {
+    "item": "ender-compass:ender_compass"
+  },
+  "show_notification": true
+}
