@@ -16,11 +16,6 @@ public class EnderCompassItem extends Item {
     public EnderCompassItem(Settings settings) {
         super(settings);
     }
-    
-    @Override
-    public boolean hasGlint(ItemStack stack) {
-        return true; // Make the item glow like an enchanted item
-    }
 
     @Override
     public void inventoryTick(ItemStack stack, World world, Entity entity, int slot, boolean selected) {
