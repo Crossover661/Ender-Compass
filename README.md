@@ -5,4 +5,4 @@ An ender compass is crafted in a crafting table using four eyes of ender and one
 
 ![ender-compass-crafting](https://github.com/user-attachments/assets/91bf35fe-ad07-4e72-98bd-005981ad3a80)
 
-In the nether or end, the ender compass spins randomly, as there are no strongholds in these dimensions. The same is true in the overworld if stronghold generation is disabled.
+In the nether or end, the ender compass spins randomly, as there are no strongholds in these dimensions. The same is true in the overworld if stronghold generation is disabled. For more information, see the project page at [Modrinth](https://modrinth.com/mod/ender-compass).
