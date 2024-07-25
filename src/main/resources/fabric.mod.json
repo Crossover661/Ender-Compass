@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "ender-compass",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Ender Compass",
 	"description": "Compass that points to the nearest end portal",
 	"authors": [
