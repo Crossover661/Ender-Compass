@@ -3,7 +3,7 @@
 	"id": "ender-compass",
 	"version": "1.0.0",
 	"name": "Ender Compass",
-	"description": "Compasses that point to the nearest end portal",
+	"description": "Compass that points to the nearest end portal",
 	"authors": [
 		"Crossover661"
 	],
